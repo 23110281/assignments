@@ -1,4 +1,4 @@
-Student-ID,Name,Age,Gender,Mathematics,Science,English,,,,,,
+Student-ID,Name,Age,Gender,Mathematics,Science,English,Average,Ifs,,,,
 101,Rohan Patel,16,Male,85,90,88,87.67,TRUE,,,,
 102,Priya Sharma,17,Female,92,88,91,90.33,TRUE,,,,
 103,Aarav Singh,15,Male,78,85,80,81.00,TRUE,,Answers [Run your cells here corresponding to Question numbers],,
